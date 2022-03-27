@@ -1,0 +1,19 @@
+
+/** Layout Css **/
+
+/** Supertheme Header **/
+.supertheme-header .no-header-menu ul li, .supertheme-header .dt-header-menu .dt-primary-nav li { border-left: 1px solid #e8e8e8; margin: 0; }
+.supertheme-header .no-header-menu ul li.close-nav, .supertheme-header .dt-header-menu .dt-primary-nav li.close-nav { border-left: none; }
+.supertheme-header .no-header-menu ul li a, .supertheme-header .dt-header-menu .dt-primary-nav li a { padding: 10px 25px; }
+
+/** Applanding Header **/
+.applanding-header .dt-header-menu ul.dt-primary-nav > li > a.icon-position-left > .menu-item-icon { padding-right: 0; display: block; text-align: center; font-size: 19px; margin-bottom: 13px; -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -o-transition: all 0.3s linear; -ms-transition: all 0.3s linear; transition: all 0.3s linear; }
+
+/** Tile Max Header **/
+.tilemax-header .cart-info { margin: 0; background: none; }
+.tilemax-header .search-module.simple-header-search.filled.gray #searchform { background: none; border: 1px solid #f3f3f3; }
+ 
+
+ /** Mini Header **/
+ .dt-sc-maaya-header.type2 .dt-simpler-slider { position: relative; top: 4px; float: right; right: 0; margin-right: 20px; }
+ .dt-sc-maaya-header.type2 .search-module { float: right; }
